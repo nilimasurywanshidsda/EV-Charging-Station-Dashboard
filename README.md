@@ -8,4 +8,4 @@ MetricValueTotal Revenue₹1,000,000 (1M)Total Transactions2,000+Total Energy Co
 ComponentDetailsBI ToolMicrosoft Power BI Desktop (v2026.02)ThemeCY26SU02 (Power BI Feb 2026 Base Theme)Data FormatStructured relational dataset (CSV/database)SchemaStar Schema — Dimension + Fact TablesCreated FromPower BI Desktop
 
 # Author
-Nilima Surywanshi
+Nilima Suryavanshi
